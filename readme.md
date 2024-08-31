@@ -1,0 +1,1 @@
+Creating a polling app using Django
